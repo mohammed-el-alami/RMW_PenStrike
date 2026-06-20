@@ -1,0 +1,37 @@
+Authorized Target:
+https://demo.owasp-juice.shop/
+
+Scope:
+Entire application
+
+In Scope:
+All application functionality
+
+Out of Scope:
+None
+
+Objective:
+Identify and document security vulnerabilities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
